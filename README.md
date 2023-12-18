@@ -1,4 +1,4 @@
-# Data-Preprocessing---AIMS-Task
+# Data-Preprocessing-AIMS-Task
 
 <p>This repository contains custom made scripts for imputing and encoding of a dataset.<br>
 It is done for a homework task of AIMS (AI-ML Society of Delhi Technological University).</p>
